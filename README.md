@@ -7,9 +7,9 @@
 
 ## I'm a Developer, wants to learn something new!
 
-- 🌱 I’m currently Working at WebWrite Inc as a MERN stack developer
+- 🌱 I’m Associate Software Engineer at OptimaGeeks
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 Goals: MERN Stack
+- 🥅 Goals: Javascript FullStack Engineer
 - ⚡ Fun fact: I love to learn new things
 - 🌐 https://soban-suleman.github.io/portfolio/
 
@@ -47,7 +47,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-<img align="left" alt="Rehan's Github Stats" src="https://github-readme-stats.rehanshakir.vercel.app/api?username=rehanshakir&show_icons=true&hide_border=true" />
+<img align="left" alt="Soban's Github Stats" src="https://github-readme-stats.rehanshakir.vercel.app/api?username=rehanshakir&show_icons=true&hide_border=true" />
 
 </details>
 
