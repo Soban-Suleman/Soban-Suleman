@@ -7,7 +7,7 @@
 
 ## I'm a Developer, wants to learn something new!
 
-- 🌱 I’m Associate Software Engineer at OptimaGeeks
+- 🌱 I’m Software Engineer at WebWrite inc
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Javascript FullStack Engineer
 - ⚡ Fun fact: I love to learn new things
